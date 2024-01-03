@@ -1,0 +1,18 @@
+/* src/Notifications.css */
+.Notifications {
+  background-color: #f8d7da; /* Light red background color */
+  color: #721c24; /* Dark red text color */
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #f5c6cb; /* Border color */
+  border-radius: 5px; /* Rounded corners */
+  width: 25%;
+  align-items: center;
+  text-align: center;
+  
+}
+
+/* Additional styling */
+.Notifications p {
+  margin: 0; /* Remove default paragraph margin */
+}
