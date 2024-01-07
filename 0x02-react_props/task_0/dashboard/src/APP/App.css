@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.App-body {
+  padding: 30px;
+  border-bottom: 3px solid red;
+  height: 100vh;
+}
+
+
+
