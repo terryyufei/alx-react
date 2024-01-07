@@ -1,0 +1,17 @@
+.App-header {
+  background-color: white;
+  padding: 20px;
+  color: red;
+  border-bottom: 3px solid red;
+  display: flex;  
+}
+.App-header h1 {
+  margin-top: 30px;
+  margin-left: 15px;
+}
+
+.App-logo {
+  width: 100px; 
+  height: auto;
+  margin-right: 10px; 
+}
